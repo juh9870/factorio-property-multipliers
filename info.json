@@ -1,0 +1,19 @@
+{
+  "name": "property-multipliers",
+  "version": "1.0.0",
+  "title": "Property Multipliers",
+  "author": "juh9870",
+  "homepage": "https://github.com/juh9870/factorio-property-multipliers",
+  "description": "Custom multipliers for property fields of specific machines",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base"
+  ],
+  "quality_required": false,
+  "rail_bridges_required": false,
+  "space_travel_required": false,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
+}

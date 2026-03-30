@@ -1,0 +1,1 @@
+[![Release](https://github.com/juh9870/factorio-property-multipliers/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/juh9870/factorio-property-multipliers/actions/workflows/release.yml)
